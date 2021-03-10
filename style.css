@@ -28,4 +28,14 @@ a {
     text-decoration: none;
     color: #fff;
     display: block;
-  }
+}
+
+ul {
+    list-style: none;
+    position: relative;
+    text-align: left;
+}
+
+li {
+    float: left;
+}
