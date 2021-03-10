@@ -1,0 +1,14 @@
+body {
+    background: grey;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.wrap {
+    display: inline-block;
+    -webkit-box-shadow: 0 0 70px #fff;
+    -moz-box-shadow: 0 0 70px #fff;
+    box-shadow: 0 0 70px #fff;
+    margin-top: 40px;
+}
